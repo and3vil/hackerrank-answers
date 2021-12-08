@@ -16,11 +16,11 @@
 
 #Constraints
 
-1<n>150
-  from __future__ import print_function
+#1<n>150
+  #from __future__ import print_function
 
-if __name__ == '__main__':
-    n = int(raw_input())
-for i in range(n):
-    print(i+1, end="")
+#if __name__ == '__main__':
+   # n = int(raw_input())
+#for i in range(n):
+   # print(i+1, end="")
 
